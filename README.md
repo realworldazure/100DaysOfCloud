@@ -10,20 +10,21 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+# My Cloud Journey
 
-## [✍️ Darren Robinson's Cloud Journey ]
+## Introduction
 
-[✍️ Hi, I'm an IT consultant based in the UK, not far from London]
 
-[✍️ I learn most days but I thought this would be a fun way to interact and network with people with similar interests. It will also keep me accountable ;-) ]
+Hi, Darren! I'm an IT consultant based in the UK, not far from London. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I thought this would be a fun way to interact, learn and network with people with people who are passionate about the cloud. It will also keep me accountable ;-)
 
-- [✍️ Link to your Twitter](https://twitter.com/stalbansdaz)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/darren-robinson-004b1b12/)
+I spent the first 15 years of my career in technical roles, the next 17 as an architect and manager. Moving forward I want to be able to leverage my management experience whilst getting an opportunity to get back to my technical roots. 
+
+By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
+
+- [@stalbansdaz](https://twitter.com/stalbansdaz)
+- [LinkedIn](https://www.linkedin.com/in/darren-robinson-004b1b12/)
 
 ## Stepping out the door
 
