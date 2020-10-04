@@ -1,52 +1,50 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+The exploits of Day 2
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+On Day 1 I managed to 'go through the motions' with Git in order to clone my 100days repo, branch, edit, commit etc. I wasn't super confident that I was really on top of it having done it only once,  so today I worked to really reinforce the knowledge I gained yesterday.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+The use case is simply become more confident and fluid with the whole process for managing version control with Git.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+I refered to Gwenyth's intro video for 100 days of cloud, slowed it right down, and made some notes.
 
-## Try yourself
+[#100daysvideo](https://youtu.be/smA_MGTgcYM)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+## Git Learning
+The process I used for #100DaysOfCloud version control
 
-![Screenshot](https://via.placeholder.com/500x300)
+From Github "100daysofcloud/100daysofcloud"
+1. Check "use this template"
+2. Set scope to Public
+3. Hit "Create repo from template"
+4. Hit Code and "clone from HTTPS://
 
-### Step 1 — Summary of Step
+From Command Prompt
 
-![Screenshot](https://via.placeholder.com/500x300)
+Go into command prompt and move a directory where you wish to do the clone
 
-### Step 3 — Summary of Step
+5. Enter "git clone <https://github.com/realworldazure/100DaysOfCloud.git>" to clone the repository
+6. Move into the Folder "100DaysOfCloud"
+7. Enter "git checkout -b day1" to create a new branch
+8. Enter "code ." to open up the Project in VS Code
 
-![Screenshot](https://via.placeholder.com/500x300)
+In VS Code Make all the changes you need to the readme
 
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+9. Enter "git add ." to add all your changes
+10. Enter "git commit -m  "Added day x of journey" to add a description to the change
+11. Enter "git checkout main" to checkout the main branch
+12. Enter "git merge day x" to merge your changes
+13. Enter "git push" to push your changes
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+Here's the Tweet
 
-[link](link)
+[Tweet](https://twitter.com/stalbansdaz/status/1312806388918366210)
