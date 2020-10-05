@@ -31,7 +31,7 @@ By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
 - [X] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [X] ☁️ 2 > [Day 2 - A focus on Git](Journey/002/Readme.md)
 - [X] ☁️ 3 > [Day 3 - Cogan's ARM templates](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [X] ☁️ 4 > [Day 4 - Well Architected Framework](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
