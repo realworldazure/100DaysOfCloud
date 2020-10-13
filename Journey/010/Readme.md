@@ -1,52 +1,27 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Day 10 - A Deep'ish dive into SD-WAN
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I am helping out scope a PoC for a client soon. Whilst I am familiar with SD-WAN and have gone through a full lifecycle implementation, there is always a lot to learn. I am a fan of the Day2Cloud series, so thought I'd give this a go. It didn't disappoint, and the role play of customer & cloud consultant really worked.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+It is technical and there are a few terms that are unique to SD-WAN. But it is worth persevering, especially if SD-WAN is on your 'roadmap'.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Lots of videos on youtube. Many seem to be very vendor specific. Also a Dummies book for SD-WAN by Velocloud. Which is pretty good
+
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Here's a link to the podcast...
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+[Day Two Cloud 065: Building Your Cloud On-Ramp With SD-WAN](https://bit.ly/3iXKgKe)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Tweet](https://twitter.com/stalbansdaz/status/1316128810958557185)

@@ -32,12 +32,12 @@ By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
 - [X] ☁️ 2 > [Day 2 - A focus on Git](Journey/002/Readme.md)
 - [X] ☁️ 3 > [Day 3 - Cogan's ARM templates](Journey/003/Readme.md)
 - [X] ☁️ 4 > [Day 4 - Well Architected Framework](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [X] ☁️ 5 > [Day 5 - AZ-104 networking](Journey/005/Readme.md)
+- [X] ☁️ 6 > [Day 6 - Azure Migrate](Journey/006/Readme.md)
+- [X] ☁️ 7 > [Day 7 - Cloudskills Cloud career chat](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [X] ☁️ 10 > [Day 10 - How to build a Cloud On-Ramp](Journey/010/Readme.md)
 
 ## Walking down the road
 
