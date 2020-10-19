@@ -35,7 +35,7 @@ By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
 - [X] ☁️ 5 > [Day 5 - AZ-104 networking](Journey/005/Readme.md)
 - [X] ☁️ 6 > [Day 6 - Azure Migrate](Journey/006/Readme.md)
 - [X] ☁️ 7 > [Day 7 - Cloudskills Cloud career chat](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [X] ☁️ 8 > [Day 8 - Terraform Intro](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [X] ☁️ 10 > [Day 10 - How to build a Cloud On-Ramp](Journey/010/Readme.md)
 
