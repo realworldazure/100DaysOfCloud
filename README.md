@@ -44,7 +44,7 @@ By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
 - [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [] ☁️ 12 > [](Journey/012/Readme.md)
 - [X] ☁️ 13 > [Git basics and a handy cheat sheet](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [X] ☁️ 14 > [Choosing compute - the Well Architected Framework](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
