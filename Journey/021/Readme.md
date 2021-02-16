@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Day 21 - AZ-104 Cloudskills Course - Managing AD Objects
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Microsoft's Well Architected Framework can feel a little overwhelming, but much of it is very useful indeed. I found an excellent section that helps you make 'Technology Choices'. My pick of the bunch is one that focuses on 'Choosing compute' and I've posted a link below
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Not much, but it may help to understand some of the Azure Compute Services
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+[Choosing compute, the section in Microsoft's documentation](https://bit.ly/2T2ibHm)
+
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+	- Bind a domain to your onmicrosoft.com AD tenant so you can use your domain's prefix
+	- Invite guest user
+	- Login with user and check what access they have (should not be able to see anyone else in AAD for a start)
+	- Create new AD instance within your tenant and assign/create a new Subscription to it
+    - Change your Subscription to a New Tenant
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Tweet](https://bit.ly/3o115Id)
