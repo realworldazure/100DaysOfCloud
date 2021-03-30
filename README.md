@@ -141,7 +141,7 @@ By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
 - [ ] ☁️ 87 > [](Journey/087/Readme.md)
 - [ ] ☁️ 88 > [](Journey/088/Readme.md)
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
-- [ ] ☁️ 90 > [](Journey/090/Readme.md)
+- [ ] ☁️ 90 > [Day 90 - Restarting Python from the beginning](Journey/090/Readme.md)
 
 ## Into the sky to touch the cloud!
 
