@@ -5,7 +5,9 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+[7/100] #100DaysOfCloud Busy at work but managed to squeeze in an interesting career focused podcast from the Cloudskills team. Despite being an 'old timer' I always get something from these 'start your' career type talks. Well worth a listen.
+
+https://cloudskills.io/blog/episode-091
 
 ## Prerequisite
 

@@ -5,7 +5,12 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+[6/100] #100DaysOfCloud Thanks to 
+@TechieLass
+ and 
+@DevOpsDerek
+ for a great video on Derek's YouTube channel. Focus - Azure Migrate. 
+Key takeaways on assessments: 1) Clients on Hyper-V or VMware - no agent required if you only require high level assessment info, but Azure Migrate
 
 ## Prerequisite
 
