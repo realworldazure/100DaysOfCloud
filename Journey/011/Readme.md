@@ -5,7 +5,8 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+11/100] #100DaysOfCloud Busy day at work. Trying to get back on track with AZ-104. Using several sources to learn. Tonight,  a deep'ish dive into monitoring courtesy of 
+@CloudSkills_io. Also using the AZ-104 track at Microsoft Learn. Here's a link -> https://bit.ly/34YCjzB
 
 ## Prerequisite
 

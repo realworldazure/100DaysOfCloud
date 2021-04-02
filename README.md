@@ -36,12 +36,12 @@ By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
 - [X] ☁️ 6 > [Day 6 - Azure Migrate](Journey/006/Readme.md)
 - [X] ☁️ 7 > [Day 7 - Cloudskills Cloud career chat](Journey/007/Readme.md)
 - [X] ☁️ 8 > [Day 8 - Terraform Intro](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [Day 9 - 5 Pillars of the Well Architected Framework](Journey/009/Readme.md)
+- [X] ☁️ 9 > [Day 9 - 5 Pillars of the Well Architected Framework](Journey/009/Readme.md)
 - [X] ☁️ 10 > [Day 10 - How to build a Cloud On-Ramp](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [X] ☁️ 11 > [Day 11 - Azure Monitoring with Cloudskills.io](Journey/011/Readme.md)
 - [] ☁️ 12 > [](Journey/012/Readme.md)
 - [X] ☁️ 13 > [Git basics and a handy cheat sheet](Journey/013/Readme.md)
 - [X] ☁️ 14 > [Choosing compute - the Well Architected Framework](Journey/014/Readme.md)
