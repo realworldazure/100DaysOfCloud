@@ -3,7 +3,12 @@
 
 ## Introduction
 
-Spent some time this evening doing a deeper dive into git and found this really useful Git Cheat Sheet. (ink below)
+[12/100] #100DaysOfCloud Bit of a detour today. Trying to get familiar with Linux development so setup Git on Debian and managed to find this neat 'Cheat Sheet' that is worth bookmarking.
+
+->
+How To Use Git: A Git Cheat Sheet | DigitalOcean
+This cheat sheet-style guide provides a quick reference to some of the more common Git commands you may use when managing repositories and collaborating on software.
+digitalocean.com
 
 ## Prerequisite
 

@@ -42,7 +42,7 @@ By the end of #100DaysOfCloud I really want to have nailed both AZ-104 & AZ-400.
 ## Walking down the road
 
 - [X] ☁️ 11 > [Day 11 - Azure Monitoring with Cloudskills.io](Journey/011/Readme.md)
-- [] ☁️ 12 > [](Journey/012/Readme.md)
+- [X] ☁️ 12 > [Day 12 - GitHub cheat sheet](Journey/012/Readme.md)
 - [X] ☁️ 13 > [Git basics and a handy cheat sheet](Journey/013/Readme.md)
 - [X] ☁️ 14 > [Choosing compute - the Well Architected Framework](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
